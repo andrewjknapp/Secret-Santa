@@ -126,6 +126,6 @@ def main():
 
     recordPairings(pairs)
 
-    print("Your pairings have been created\nMake sure to not peek ar yours!")
+    print("Your pairings have been created\nMake sure to not peek at yours!")
 
 main()

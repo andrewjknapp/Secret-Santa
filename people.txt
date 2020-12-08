@@ -4,7 +4,7 @@ Jasmine
 Austin
 Catherine
 Anthony
-Bill
+Freddy
 Joel
 Brian
 Sandie
