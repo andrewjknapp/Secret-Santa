@@ -117,9 +117,7 @@ def recordPairings(pairings):
 
 def main():
     participants = readParticipants()
-    if not len(participants) % 2 == 0:
-        print("Please enter an even number of people")
-        return
+
     excludedPairs = readExcludedPairs()
    
     pairs = generatePairs(participants, excludedPairs)
